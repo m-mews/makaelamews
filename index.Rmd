@@ -1,0 +1,29 @@
+---
+title: "Makaela Mews"
+image: "makaela.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/makaela-mews-6202a7105"
+  - label: Contact
+    url: "mailto:mxm1368@case.edu"
+output:
+  postcards::trestles
+---
+
+<br>
+
+# Bio
+
+Makaela Mews is a graduate student working under the direction of Dr. William Bush at Case Western Reserve University. She primarily focuses her work on the application of Systems Biology approaches such as the integrated analysis of genomic and transcriptomic data to improving our understanding of Alzheimer's disease pathogenesis and risk prediction. Her research interests include leveraging meta-analysis summary statistics to improve gene-based prediction models and building upon existing polygenic-score based approaches to improve Alzheimer's disease risk profiling.  
+
+# Education
+
+Graduate Student, Systems Biology & Bioinformatics (*Current*) 
+
+- Department of Nutrition, Case Western Reserve University School of Medicine, Cleveland, OH, United States 
+- PI: William S. Bush, PhD
+
+Bachelor of Science, Neuroscience & Genetics, Cell Biology, and Development (*May 2016*) 
+
+- College of Biological Sciences, University of Minnesota—Twin Cities, Minneapolis, MN 
+
